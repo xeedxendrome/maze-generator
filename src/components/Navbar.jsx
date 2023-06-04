@@ -5,7 +5,7 @@ import AlgoSelect from "./AlgoSelect.jsx";
 export default function Navbar() {
     return ( 
         <div className="navbar">
-            <Link href="https://github.com/anshuthopsee/maze-generator">
+            <Link href="https://github.com/xeedxendrome/maze-generator">
                 <GitHubIcon sx={{px: 1, fill: "black"}}/>
             </Link>
             <div className="header code">MAZE GENERATOR</div>
