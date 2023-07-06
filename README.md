@@ -3,6 +3,7 @@ A website built with react that shows maze generation. This site is also an expe
     <img src="/screenshots/base.png" width="400px"</img> 
 </div>
 ## Maze generation algorithms used
+
 - Recursive Backtracker.
 <div align="center">
     <img src="/screenshots/recur.png" width="400px"</img> 
