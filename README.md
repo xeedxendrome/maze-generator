@@ -1,6 +1,6 @@
 A website built with react that shows maze generation. This site is also an experiment with Material UI.
 <div align="center">
-    <img src="/screenshots/base.jpg" width="400px"</img> 
+    <img src="/screenshots/base.png" width="400px"</img> 
 </div>
 ## Maze generation algorithms used
 - Recursive Backtracker.
