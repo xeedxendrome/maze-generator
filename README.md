@@ -1,5 +1,7 @@
 A website built with react that shows maze generation. This site is also an experiment with Material UI.
-![ScreenShot](https://raw.github.com/{xeedxendrome}/{MAZE-GENERATOR}/{main}/{\screenshots\base.png})
+<div align="center">
+    <img src="/screenshots/base.jpg" width="400px"</img> 
+</div>
 ## Maze generation algorithms used
 - Recursive Backtracker.
 - Kruskal's Algorithm.
